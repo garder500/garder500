@@ -23,10 +23,11 @@ I'm Exatombe, a Web and mobile App developer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 43 mins
+Total Time: 3 hrs 21 mins
 
-Go     1 hr 40 mins    ████████████████████████▃   97.09 %
-YAML   3 mins          ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.91 %
+Go     3 hrs 6 mins    ███████████████████████▂▁   92.59 %
+C      11 mins         █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.92 %
+YAML   3 mins          ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.49 %
 ```
 
 <!--END_SECTION:waka-->
