@@ -3,8 +3,8 @@
 I'm Exatombe, a Web and mobile App developer
 
 ### My actuals projects 
-- 🔭 Ketsuna the IA Bot
-- 🌱 Gazes Novel (Writing project)
+- 🔭 [Ketsuna](https://ketsuna.com)
+- 🌱 [Portfolio](https://jeremysoler.com)
 
 ### My skills
 
