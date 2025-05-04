@@ -23,13 +23,13 @@ I'm Garder500, a Web and mobile App developer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 52 mins
+Total Time: 23 hrs 1 min
 
-C++               8 hrs 45 mins   █████████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.29 %
-Go                3 hrs           ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.15 %
-Docker            2 hrs 53 mins   ███▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.65 %
-JavaScript        2 hrs 18 mins   ██▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.11 %
-Nix               1 hr 42 mins    █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.43 %
+C++               8 hrs 55 mins   █████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.70 %
+Go                3 hrs           ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.06 %
+Docker            2 hrs 53 mins   ███▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.57 %
+JavaScript        2 hrs 18 mins   ██▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.04 %
+Nix               1 hr 42 mins    █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.38 %
 ```
 
 <!--END_SECTION:waka-->
