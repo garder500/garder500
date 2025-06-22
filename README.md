@@ -26,10 +26,10 @@ I'm Garder500, a Web and mobile App developer
 Total Time: 12 hrs
 
 JavaScript   4 hrs 41 mins   █████████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   37.69 %
-PHP          4 hrs 3 mins    ████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   32.66 %
+PHP          4 hrs 6 mins    ████████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   32.95 %
 TypeScript   1 hr 54 mins    ███▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.35 %
 YAML         35 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.77 %
-Other        25 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.43 %
+Other        25 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.48 %
 ```
 
 <!--END_SECTION:waka-->
