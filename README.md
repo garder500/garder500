@@ -23,13 +23,13 @@ I'm Garder500, a Web and mobile App developer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 42 mins
+Total Time: 8 hrs 7 mins
 
-JavaScript   4 hrs 41 mins   ███████████▃▁▁▁▁▁▁▁▁▁▁▁▁▁   44.99 %
-Vue.js       3 hrs 24 mins   ████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   32.71 %
-TypeScript   1 hr 1 min      ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.78 %
-Other        43 mins         █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.96 %
-Prisma       20 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.21 %
+JavaScript   4 hrs 35 mins   █████████████▆▁▁▁▁▁▁▁▁▁▁▁   54.91 %
+Vue.js       2 hrs 38 mins   ███████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   31.66 %
+TypeScript   43 mins         ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.65 %
+Other        14 mins         ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.82 %
+JSON         9 mins          ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.81 %
 ```
 
 <!--END_SECTION:waka-->
