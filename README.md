@@ -25,7 +25,8 @@ I'm Garder500, a Web and mobile App developer
 ```txt
 Total Time: 11 mins
 
-YAML   11 mins         █████████████████████████   100.00 %
+Other   14 mins         █████████████▆▁▁▁▁▁▁▁▁▁▁▁   54.86 %
+YAML    11 mins         ███████████▃▁▁▁▁▁▁▁▁▁▁▁▁▁   45.14 %
 ```
 
 <!--END_SECTION:waka-->
