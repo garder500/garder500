@@ -23,13 +23,13 @@ I'm Garder500, a Web and mobile App developer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 mins
+Total Time: 1 hr 56 mins
 
-Dart         24 mins               ███████████████▆▁▁▁▁▁▁▁▁▁   62.73 %
-YAML         7 mins                ████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.15 %
-Bash         4 mins                ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.03 %
-JSON         1 min                 ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.34 %
-Go           0 secs                ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.63 %
+TypeScript   32 mins               ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   27.89 %
+Dart         26 mins               █████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   22.42 %
+JSON         12 mins               ██▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.16 %
+JavaScript   12 mins               ██▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.52 %
+Markdown     9 mins                ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.93 %
 ```
 
 <!--END_SECTION:waka-->
