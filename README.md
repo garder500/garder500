@@ -25,11 +25,11 @@ I'm Garder500, a Web and mobile App developer
 ```txt
 Total Time: 49 mins
 
-Other        2 hrs 10 mins         ██████████████████▂▁▁▁▁▁▁   72.35 %
-JSON         18 mins               ██▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.19 %
-PowerShell   17 mins               ██▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.83 %
-YAML         4 mins                ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.48 %
-BibTeX       3 mins                ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.14 %
+Other        3 hrs 12 mins         ███████████████████▇▁▁▁▁▁   79.48 %
+JSON         18 mins               █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.56 %
+PowerShell   17 mins               █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.29 %
+YAML         4 mins                ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.84 %
+BibTeX       3 mins                ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.59 %
 ```
 
 <!--END_SECTION:waka-->
